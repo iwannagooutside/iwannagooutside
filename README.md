@@ -2,7 +2,7 @@
 
 I work in growth at [Clever Cloud](https://www.clever-cloud.com). I started out as a no-coder.
 
-**I'm not a developer.** I can't write a game engine from scratch, and I won't pretend otherwise. What I do is pair with AI coding agents: I set the goal, keep an eye on the hardware, test on a real console and make the calls. The agents write most of the code.
+**I'm not a developer.** I can't write a game engine from scratch, and I won't pretend otherwise. What I do is pair with AI coding agents: I set the goal, keep an eye on the hardware, test on a real console and make the calls. The agents write the code.
 
 I mostly use that setup to port games to the **PS Vita**. It's a great little handheld, and there's still a community keeping it alive. Porting games to it is my way of chipping in.
 
