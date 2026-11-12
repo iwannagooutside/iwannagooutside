@@ -11,9 +11,10 @@ I mostly use that setup to port games to the **PS Vita**. It's a great little ha
 | Project | What it is |
 |---|---|
 | [thug-vita-port](https://github.com/iwannagooutside/thug-vita-port) | Native PS Vita port of *Tony Hawk's Underground* (2003). The whole engine rebuilt for the Vita with a new vitaGL graphics backend. Story mode, every level, Create-a-Skater, most levels at or near 60 fps. [Trailer](https://www.youtube.com/watch?v=XKwEK5B5K2w) |
+| [thug2-vita](https://github.com/iwannagooutside/thug2-vita) | Native PS Vita port of *Tony Hawk's Underground 2* (2004). Same engine as THUG Vita, extended to run the Xbox version: Story and Classic modes to the end, Free Skate, every create mode, the game's videos and the THUG Pro HD HUD. [v1.0.1](https://github.com/iwannagooutside/thug2-vita/releases/tag/v1.0.1) fixes player-reported bugs and makes busy views much smoother. |
 | [9mm-vita](https://github.com/iwannagooutside/9mm-vita) | PS Vita port of *9mm HD* (Android). Runs the original ARMv7 binary with native controls. My first one, mostly a way to learn the ropes. |
 
-More ports on the way: digging into the Neversoft engine turned up some interesting stuff.
+More on the way: digging into the Neversoft engine keeps turning up interesting stuff.
 
 ## 🛠️ How I work
 
